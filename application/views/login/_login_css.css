@@ -1,0 +1,12 @@
+<style type="text/css">
+		.padding{padding-top: 10%};	
+		.#bg{background-color:#c9fc16}
+		.sha{text-shadow: 0px 0px 3px #c9fc16}
+		.w100{width: 100%;}
+		.hov{cursor:pointer;}
+		.p-c{border-color:#c9fc16;  }
+		.p-c>.panel-heading{background-color: #c9fc16 ; border-color: #c9fc16;	 color: #fff;}
+		.l-s{border-color: #c9fc16}
+		.m-10-t{margin-top: 10px}
+		.m-5-t{margin-top: 5px}
+</style>

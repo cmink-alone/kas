@@ -1,0 +1,14 @@
+<style>
+*{font-family: serif;}
+.mgt{margin-top: 5px;}
+.pp{min-height: 130px;min-width: 90px;}
+.ci{padding-left: 22%; padding-right: 22%}
+.wr{white-space:normal;}
+.scroll{
+  padding: 10px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: 300px;}
+ .tx{color:#948985;}
+
+</style>
